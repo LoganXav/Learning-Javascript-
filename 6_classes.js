@@ -35,4 +35,4 @@ book1.revise('2018');
 console.log(book1);
  */
 
-Book.topBookStore();
+console.log(Book.topBookStore());
